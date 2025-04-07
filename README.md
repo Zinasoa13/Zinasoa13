@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Zinasoa13
-- 👀 I’m interested in ROBOTIC AND AI
-- 🌱 I’m currently learning about AI DATASCENCE AND ROBOTIC or MACHINE LEARNIND AND DEEP LEARNING
 - 📫 How to reach me : with this account
 - ⚡ Fun fact: ...
 
